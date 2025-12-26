@@ -1,11 +1,16 @@
-## Hi there 👋
+Hello! I’m a product-focused "vibe coder" building tools that bridge the gap between physical logistics and digital efficiency.
+
+🚀 **Featured Projects**
+🎄 **Christmas Tree Database App**
+A specialized management system designed to track inventory, growth cycles, and distribution for Christmas tree farms.
+**Key Features:** Batch tracking, health monitoring, and sales logging.
+**Tech Stack:** [e.g., Python, SQL, Streamlit]
+🚗 **License Plate Tracker**
+An application built to streamline vehicle logging and monitoring.
+**Key Features:** Real-time data entry, historical search, and automated reporting.
+**Tech Stack:** [e.g., Node.js, PostgreSQL, OpenCV]
 
 <!--
-**Marsh-biz/Marsh-biz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
