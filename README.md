@@ -3,14 +3,14 @@ Hello! I’m a product-focused "vibe coder" building tools that bridge the gap b
 🚀 **Featured Projects**  
 
 🎄 **Christmas Tree Database App**  
-_A specialized management system designed to track inventory, growth cycles, and distribution for Christmas tree farms.  _
+_A specialized management system designed to track inventory, growth cycles, and distribution for Christmas tree farms._  
 **Key Features:** Batch tracking, health monitoring, and sales logging.  
-**Tech Stack:** (e.g., Python, SQL, Streamlit) 
+**Tech Stack:** (Python, IndexedDB, Vanilla HTML) 
 
 🚗 **License Plate Tracker**  
-_An application built to streamline vehicle logging and monitoring.  _
+_An application built to streamline vehicle logging and monitoring._  
 **Key Features:** Real-time data entry, historical search, and automated reporting.  
-**Tech Stack:** (e.g., Node.js, PostgreSQL, OpenCV)  
+**Tech Stack:** (Python, SQLlite, Next.js)  
 
 <!--
 - 🌱 I’m currently learning ...
