@@ -1,10 +1,12 @@
 Hello! I’m a product-focused "vibe coder" building tools that bridge the gap between physical logistics and digital efficiency.
 
-🚀 **Featured Projects**
-🎄 **Christmas Tree Database App**
+🚀 **Featured Projects**  
+
+🎄 **Christmas Tree Database App**  
 A specialized management system designed to track inventory, growth cycles, and distribution for Christmas tree farms.  
 **Key Features:** Batch tracking, health monitoring, and sales logging.  
-**Tech Stack:** (e.g., Python, SQL, Streamlit)  
+**Tech Stack:** (e.g., Python, SQL, Streamlit) 
+
 🚗 **License Plate Tracker**  
 An application built to streamline vehicle logging and monitoring.  
 **Key Features:** Real-time data entry, historical search, and automated reporting.  
